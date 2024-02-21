@@ -63,4 +63,4 @@ translation, sentiment analysis, and language understanding.
 
 
 ### Screenshot of implementation azure services and website
-![Screenshot]("C:\Users\Lenovo\Pictures\ss\ss1.png")
+![Screenshot]("https://drive.google.com/file/d/1Rah8IssA9Mw-aAZLhSq9UFJ1LcuUCrkU/view?usp=sharing")
