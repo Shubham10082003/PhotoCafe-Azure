@@ -63,4 +63,4 @@ translation, sentiment analysis, and language understanding.
 
 
 ### Screenshot of implementation azure services and website
-![Screenshot]("https://drive.google.com/file/d/1Rah8IssA9Mw-aAZLhSq9UFJ1LcuUCrkU/view?usp=sharing")
+![ss1](https://github.com/Shubham10082003/Sunglasses-poject-azure/assets/160002639/7a432705-d94a-43a4-8671-6f33315ab662)
