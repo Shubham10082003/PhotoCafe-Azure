@@ -63,4 +63,20 @@ translation, sentiment analysis, and language understanding.
 
 
 ### Screenshot of implementation azure services and website
-![ss1](https://github.com/Shubham10082003/Sunglasses-poject-azure/assets/160002639/7a432705-d94a-43a4-8671-6f33315ab662)
+![s1](https://github.com/Shubham10082003/Sunglasses-poject-azure/assets/160002639/00b2dea5-70f5-439b-ae79-c2b47d9f5bb5)
+![s2](https://github.com/Shubham10082003/Sunglasses-poject-azure/assets/160002639/263373d2-edf9-4ee7-bf4a-575bd6503e01)
+![s3](https://github.com/Shubham10082003/Sunglasses-poject-azure/assets/160002639/fd705bcc-e696-4d2d-8d55-ba1bec750fd6)
+![s4](https://github.com/Shubham10082003/Sunglasses-poject-azure/assets/160002639/933211be-bdcd-45e7-bf37-197019bf6452)
+![s5](https://github.com/Shubham10082003/Sunglasses-poject-azure/assets/160002639/76e742ab-beb0-4bcb-ae19-b11216181338)
+![s6](https://github.com/Shubham10082003/Sunglasses-poject-azure/assets/160002639/2fbcf181-8a5d-48f7-b60a-19031b624aa6)
+![s7](https://github.com/Shubham10082003/Sunglasses-poject-azure/assets/160002639/864a1c5c-0638-4268-98e4-0df38c838007)
+![s8](https://github.com/Shubham10082003/Sunglasses-poject-azure/assets/160002639/18f16edb-79fe-424d-a759-33e512d2223b)
+![s9](https://github.com/Shubham10082003/Sunglasses-poject-azure/assets/160002639/198d501d-3e44-49e9-a3a0-7505d95aa13c)
+![sa1](https://github.com/Shubham10082003/Sunglasses-poject-azure/assets/160002639/b9e9ef8d-5ff7-4423-8157-9ffddbe25990)
+![sa2](https://github.com/Shubham10082003/Sunglasses-poject-azure/assets/160002639/79356f10-16c3-40bf-9b65-86bb5aebbaf6)
+![sa3](https://github.com/Shubham10082003/Sunglasses-poject-azure/assets/160002639/fb9a8168-05ff-4965-bd99-9392aa33f14e)
+![sa4](https://github.com/Shubham10082003/Sunglasses-poject-azure/assets/160002639/b0bcb3a5-a7f2-44ec-9b23-9527d1cf6e86)
+![sa5](https://github.com/Shubham10082003/Sunglasses-poject-azure/assets/160002639/95b6209f-1da1-4d7f-9f86-41b785990569)
+![sa6](https://github.com/Shubham10082003/Sunglasses-poject-azure/assets/160002639/d36a88d0-40d2-4143-9a1d-04bf6c78b59d)
+![sa7](https://github.com/Shubham10082003/Sunglasses-poject-azure/assets/160002639/db22da6f-1ca6-48c5-9be7-54d38e4502aa)
+
